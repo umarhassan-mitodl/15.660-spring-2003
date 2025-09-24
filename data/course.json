@@ -1,0 +1,44 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Industrial Relations and Human Resource Management"
+    ]
+  ],
+  "legacy_uid": "d0d1f5f5-bb6f-3a2b-8a13-dd87abc76b8c",
+  "instructors": {
+    "content": [
+      "68893228-d8fd-aeda-3dc0-3f6fd5a6a4c4",
+      "87f4cf6a-22b7-d352-af12-fa3ee5cdbd64"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "10124a71-88f5-1cee-59a8-bd9b3a0aad44",
+    "website": "15-660-strategic-hr-management-spring-2003"
+  },
+  "course_title": "Strategic HR Management",
+  "course_description": "This course is about both the design and execution of human resource management strategies. This course has two central themes: (1) How to think systematically and strategically about aspects of managing the organization's human assets, and (2) What really needs to be done to implement these policies and to achieve competitive advantage. It adopts the perspective of a general manager and addresses human resource topics (including reward systems, performance management, high-performance human resource systems, training and development, recruitment, retention, equal employment opportunity laws, work-force diversity, and union-management relationships) from a strategic perspective.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.660",
+  "course_image_thumbnail": {
+    "content": "736ad481-3d1b-1fd1-4b77-effec868b2b2",
+    "website": "15-660-strategic-hr-management-spring-2003"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "55768a7d-2dea-49e6-84df-5c0d9def10c3",
+  "site_short_id": "15.660-spring-2003",
+  "site_url_path": "courses/15-660-strategic-hr-management-spring-2003",
+  "title": "Course Metadata"
+}
